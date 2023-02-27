@@ -1,5 +1,6 @@
 {
     "name": "Micro:Bit Game - Minion Catches Bananas 🍌",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
